@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MANSORYHUB/.github/main/profile/assets/logo.png" alt="MANSORY HUB" width="200" />
+<img src="https://raw.githubusercontent.com/MANSORYHUB/.github/main/assets/logo.png" alt="MANSORY HUB" width="200" />
 
 ### Buy, sell & rent premium cars — worldwide.
 
@@ -9,7 +9,6 @@ A global digital marketplace for premium automobiles, built in Dubai.
 <br/>
 
 [![Website](https://img.shields.io/badge/mansoryhub.com-E10600?style=for-the-badge&logoColor=white)](https://mansoryhub.com)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logoColor=white)](https://marketplace.1billion.io/)
 [![Location](https://img.shields.io/badge/Dubai_·_UAE-1C1C1C?style=for-the-badge&logoColor=white)](#)
 
 </div>
@@ -78,7 +77,6 @@ Every listing on the platform is reviewed before it goes live. Every vehicle can
 | | |
 |:--|:--|
 | 🌐 **Production** | [mansoryhub.com](https://mansoryhub.com) |
-| 🧪 **Live demo** | [marketplace.1billion.io](https://marketplace.1billion.io/) |
 | 📍 **Based in** | Dubai, United Arab Emirates |
 | 🚗 **Categories** | Sedan · SUV · Coupé · Hatchback · Convertible |
 
